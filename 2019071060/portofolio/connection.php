@@ -1,6 +1,7 @@
 <?php
     // membuat koneksi ke database
-    $conn = mysqli_connect("localhost","root","","db_my_portofolio");
+    $conn = mysqli_connect("localhost","uute9q2m_root","r4h4si4_shisomaru","uute9q2m_db_my_portofolio");
+    //$conn = mysqli_connect("localhost","root","","db_my_portofolio"); // online
 
     // Check connection
     if (mysqli_connect_errno()){
